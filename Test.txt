@@ -1,4 +1,9 @@
 hellow all everyone 
 this is surya
  now i made change today on 18th
+<<<<<<< HEAD
  now i made another change
+=======
+ now i made a change in mini
+ now i made the changes in remote also
+>>>>>>> fbc7554e239a20ea32a614170a37db614d04d138
